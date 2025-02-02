@@ -12,7 +12,7 @@
 
 - 🌍  I'm based in Egypt
 - 🖥️  See my portfolio at [ammaryaser.com](http://ammaryaser.com/)
-- ✉️  You can contact me at [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com)
+- ✉️  You can contact me at [ammar@bold-xp.com](mailto:ammar@bold-xp.com)
 - ☎️ You can phone me at [+201092485755](tel:+201092485755)
 - 🚀  I'm currently working @boldagency
 - 🧠  I'm learning Advanced Go Lang
